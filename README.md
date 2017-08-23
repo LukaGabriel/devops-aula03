@@ -3,5 +3,6 @@
 
 *Mercurial
 *Git
+*Gitlab
 *Subversion
 *CVS
