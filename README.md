@@ -1,7 +1,7 @@
 # devops-aula03
 #Ferramentas de controle de versão:
 
-#Mercurial
-#Github
-#Subversion
-#CVS
+*Mercurial
+*Github
+*Subversion
+*CVS
